@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Sixtyfour+Convergence&display=swap');
+
+body {
+    font-family: "Chakra Petch", sans-serif;
+    color: black;
+    background: #232526; 
+    background: -webkit-linear-gradient(to bottom, #232526, #414345); 
+    background: linear-gradient(to bottom, #232526, #414345);
+    margin: 0;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+p{
+   margin-top: 3em;
+    text-align: center;
+    padding: 0;
+   
+    
+}
+a{
+    background: #232526; 
+    color: pink;
+    text-decoration: none;
+    letter-spacing: 3px;
+    padding: 25px;
+    border: 1px solid blueviolet;
+    border-radius: 20px;
+    margin: 60px;
+}
+a:hover{
+    color: white;
+    font-size: 15px;
+    background-color: black;
+    
+}
+
+h1{
+    color: white;
+}
+
+p{
+    color: cyan;
+    text-align: justify;
+}
+img{
+    width: 40%;
+    height: auto;
+    
+}
+
+.pais{
+    margin-top: 5em;
+    background: #232526; 
+    box-shadow: 1px 1px 1px 1px black;
+   padding: 30px;
+    margin-bottom: 20px;
+   
+}
+span{
+    color: blueviolet;
+    
+}
